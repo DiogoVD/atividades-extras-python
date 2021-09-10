@@ -6,3 +6,5 @@ reporter
 feira
 crua
 laranja
+maça
+televisão
